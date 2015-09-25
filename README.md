@@ -6,3 +6,5 @@
 <p>Voici ou j'en suis sur Codecademy</p>
 
 https://www.codecademy.com/fr/users/scriptRunner53822/achievements
+
+<p>J'ai l'intention de continuer la semaine prochaine la partie HTML de codecademy<p>
