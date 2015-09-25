@@ -5,4 +5,4 @@
 
 <p>Voici ou j'en suis sur Codecademy</p>
 
-<a href="https://www.codecademy.com/fr/users/scriptRunner53822/achievements">
+https://www.codecademy.com/fr/users/scriptRunner53822/achievements
