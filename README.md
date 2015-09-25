@@ -1,5 +1,5 @@
 # Semaine2
-<h1>Badges HTML sur Codecademy</h1>
+<h2>Badges HTML sur Codecademy</h2>
 
 <p>J'ai pour l'instant fait que l'introduction qui est demandé au minimum pour la partie HTML</p>
 
@@ -7,4 +7,4 @@
 
 https://www.codecademy.com/fr/users/scriptRunner53822/achievements
 
-<p>J'ai l'intention de continuer la semaine prochaine la partie HTML de codecademy<p>
+<p><i>J'ai l'intention de continuer la semaine prochaine la partie HTML de codecademy</i><p>
